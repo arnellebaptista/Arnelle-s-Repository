@@ -1,4 +1,7 @@
 Arnelle-s-Repository
 ====================
 
-my first GitHub repository
+Arnelle Baptista <br>
+Computer Science Major<br>
+Junior<br>
+University of California, San Diego<br>
